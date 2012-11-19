@@ -1,2 +1,1 @@
-Bandpage-Connect
-================
+Basic implementation of BandPage Connect with PHP
